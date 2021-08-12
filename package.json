@@ -1,0 +1,19 @@
+{
+  "name": "actividad-node",
+  "version": "1.0.0",
+  "description": "actividad node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fedex105/actividad-node.git"
+  },
+  "author": "Federico P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fedex105/actividad-node/issues"
+  },
+  "homepage": "https://github.com/Fedex105/actividad-node#readme"
+}
