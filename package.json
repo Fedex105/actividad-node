@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Fedex105/actividad-node/issues"
   },
-  "homepage": "https://github.com/Fedex105/actividad-node#readme"
+  "homepage": "https://github.com/Fedex105/actividad-node#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
